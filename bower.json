@@ -1,0 +1,22 @@
+{
+  "name": "spring-recipe",
+  "homepage": "https://github.com/vssouza/spring-recipe",
+  "authors": [
+    "Vinicius Yamauchi <vs.souza@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap4": "^4.2.1",
+    "jquery": "^3.3.1"
+  }
+}
